@@ -36,7 +36,8 @@ The dashboard presents workforce data through multiple visual perspectives, incl
 These visuals help identify which employee segments show higher attrition and support deeper analysis of workforce composition.
 
 ## Dashboard Preview
-Dashboard.png
+
+![HR Analytics Dashboard](screenshots/dashboard.png)
 
 ## How to Use
 1. Clone or download this repository.
