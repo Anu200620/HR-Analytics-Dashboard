@@ -37,7 +37,7 @@ These visuals help identify which employee segments show higher attrition and su
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/Screenshot.png)
+![Screenshot](screenshots/Screenshot.png)
 
 ## How to Use
 1. Clone or download this repository.
