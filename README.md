@@ -37,7 +37,7 @@ These visuals help identify which employee segments show higher attrition and su
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](screenshots/dashboard.png)
+![HR Analytics Dashboard](screenshots/Dashboard.png)
 
 ## How to Use
 1. Clone or download this repository.
